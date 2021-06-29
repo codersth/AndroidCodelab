@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCodelab</string>
+    <string name="purchase_platform_exp">购物平台：%1$s</string>
+    <string name="stock_amount">库存数：</string>
+    <string name="increase_stock">增加库存</string>
+    <string name="decrease_stock">减少库存</string>
+</resources>
